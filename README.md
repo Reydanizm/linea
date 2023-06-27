@@ -1,0 +1,2 @@
+# linea
+fast testnet
